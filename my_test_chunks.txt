@@ -1,0 +1,741 @@
+================================================================================
+PDF CHUNKING OUTPUT: roundup_744b26dd6d64.pdf
+================================================================================
+
+Chunking Settings:
+  Chunk size: 1000 characters
+  Chunk overlap: 200 characters
+  Total pages: 11
+  Total chunks: 26
+
+================================================================================
+
+================================================================================
+PAGE 1 - 2 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 1 (Index: 0) - PAGE 1
+Length: 979 characters | Estimated Tokens: 244
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+1/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+SECTION 1: IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE
+COMPANY/UNDERTAKING
+Product identifier
+Trade name ROUNDUP® ULTRA HERBICIDE
+Product code (UVP) 86771497
+SDS Number 102000037602
+EPA Registration No. 524-475
+Relevant identified uses of the substance or mixture and uses advised against
+Identified uses Herbicide
+Restrictions on use See product label for restrictions.
+Information on supplier
+Supplier Bayer Environmental Science
+A division of Bayer CropScience LP
+5000 Centregreen Way, Suite 400
+Cary, NC 27513
+USA
+Responsible Department Email: SDSINFO.BCS-NA@bayer.com
+Emergency telephone no.
+Emergency Telephone 1-800-334-7577
+Number (24hr/ 7 days)
+Product Information 1-800-331-2867
+Telephone Number
+SECTION 2: HAZARDS IDENTIFICATION
+Classification in accordance with regulation HCS 29CFR §1910.1200
+Acute toxicity(Inhalation): Category 4
+--------------------------------------------------------------------------------
+END OF CHUNK 1
+
+
+--------------------------------------------------------------------------------
+CHUNK 2 (Index: 1) - PAGE 1
+Length: 310 characters | Estimated Tokens: 77
+--------------------------------------------------------------------------------
+Product Information 1-800-331-2867
+Telephone Number
+SECTION 2: HAZARDS IDENTIFICATION
+Classification in accordance with regulation HCS 29CFR §1910.1200
+Acute toxicity(Inhalation): Category 4
+Labelling in accordance with regulation HCS 29CFR §1910.1200
+Signal word: Warning
+Hazard statements
+Harmful if inhaled.
+--------------------------------------------------------------------------------
+END OF CHUNK 2
+
+
+================================================================================
+PAGE 2 - 3 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 3 (Index: 2) - PAGE 2
+Length: 966 characters | Estimated Tokens: 241
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+2/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+Precautionary statements
+Avoid breathing mist/ vapours/ spray.
+Use only outdoors or in a well-ventilated area.
+IF INHALED: Remove person to fresh air and keep comfortable for breathing.
+Call a POISON CENTER/doctor/physician if you feel unwell.
+Hazards Not Otherwise Classified (HNOC)
+No physical hazards not otherwise classified.
+No health hazards not otherwise classified.
+SECTION 3: COMPOSITION/INFORMATION ON INGREDIENTS
+Hazardous Component Name CAS-No. Concentration % by weight
+Isopropylamine salt of glyphosate 38641-94-0 41.0
+Surfactant blend (proprietary) >=7.0 – <=13.0
+The specific chemical identity and/or concentration range is being withheld because it is trade secret
+information.
+SECTION 4: FIRST AID MEASURES
+Description of first aid measures
+General advice When possible, have the product container or label with you when
+--------------------------------------------------------------------------------
+END OF CHUNK 3
+
+
+--------------------------------------------------------------------------------
+CHUNK 4 (Index: 3) - PAGE 2
+Length: 932 characters | Estimated Tokens: 233
+--------------------------------------------------------------------------------
+information.
+SECTION 4: FIRST AID MEASURES
+Description of first aid measures
+General advice When possible, have the product container or label with you when
+calling a poison control center or doctor or going for treatment.
+Inhalation Move to fresh air. If person is not breathing, call 911 or an ambulance,
+then give artificial respiration, preferably mouth-to-mouth if possible.
+Call a physician or poison control center immediately.
+Skin contact Wash off immediately with plenty of water for at least 15 minutes. Take
+off contaminated clothing and shoes immediately. Call a physician or
+poison control center immediately.
+Eye contact Hold eye open and rinse slowly and gently with water for 15-20
+minutes. Remove contact lenses, if present, after the first 5 minutes,
+then continue rinsing eye. Call a physician or poison control center
+immediately.
+Ingestion Call a physician or poison control center immediately. Rinse out mouth
+--------------------------------------------------------------------------------
+END OF CHUNK 4
+
+
+--------------------------------------------------------------------------------
+CHUNK 5 (Index: 4) - PAGE 2
+Length: 606 characters | Estimated Tokens: 151
+--------------------------------------------------------------------------------
+then continue rinsing eye. Call a physician or poison control center
+immediately.
+Ingestion Call a physician or poison control center immediately. Rinse out mouth
+and give water in small sips to drink. DO NOT induce vomiting unless
+directed to do so by a physician or poison control center. Never give
+anything by mouth to an unconscious person. Do not leave victim
+unattended.
+Most important symptoms and effects, both acute and delayed
+Symptoms To date no symptoms are known.
+Indication of any immediate medical attention and special treatment needed
+Risks This product is not a cholinesterase inhibitor.
+--------------------------------------------------------------------------------
+END OF CHUNK 5
+
+
+================================================================================
+PAGE 3 - 3 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 6 (Index: 5) - PAGE 3
+Length: 950 characters | Estimated Tokens: 237
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+3/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+Treatment Treatment with atropine and oximes is not indicated. Appropriate
+supportive and symptomatic treatment as indicated by the patient's
+condition is recommended.
+SECTION 5: FIREFIGHTING MEASURES
+Extinguishing media
+Suitable Use water spray, alcohol-resistant foam, dry chemical or carbon
+dioxide.
+Unsuitable High volume water jet
+Special hazards arising In the event of fire the following may be released:, Carbon monoxide
+from the substance or (CO), Carbon dioxide (CO2), Nitrogen oxides (NOx), Oxides of
+mixture phosphorus
+Advice for firefighters
+Special protective In the event of fire and/or explosion do not breathe fumes. Firefighters
+equipment for firefighters should wear NIOSH approved self-contained breathing apparatus and
+full protective clothing. Equipment should be thoroughly
+decontaminated after use.
+--------------------------------------------------------------------------------
+END OF CHUNK 6
+
+
+--------------------------------------------------------------------------------
+CHUNK 7 (Index: 6) - PAGE 3
+Length: 940 characters | Estimated Tokens: 235
+--------------------------------------------------------------------------------
+equipment for firefighters should wear NIOSH approved self-contained breathing apparatus and
+full protective clothing. Equipment should be thoroughly
+decontaminated after use.
+Further information Keep out of smoke. Fight fire from upwind position. Cool closed
+containers exposed to fire with water spray. Do not allow run-off from
+fire fighting to enter drains or water courses.
+Flash point does not flash
+Auto-ignition temperature 452 °C / 845.6 °F
+Lower explosion limit Not applicable
+Upper explosion limit Not applicable
+Explosivity Not explosive
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+Personal precautions, protective equipment and emergency procedures
+Precautions Use personal protective equipment. Keep unauthorized people away.
+Avoid contact with spilled product or contaminated surfaces.
+Methods and materials for containment and cleaning up
+Methods for cleaning up Soak up with inert absorbent material (e.g. sand, silica gel, acid
+--------------------------------------------------------------------------------
+END OF CHUNK 7
+
+
+--------------------------------------------------------------------------------
+CHUNK 8 (Index: 7) - PAGE 3
+Length: 405 characters | Estimated Tokens: 101
+--------------------------------------------------------------------------------
+Methods and materials for containment and cleaning up
+Methods for cleaning up Soak up with inert absorbent material (e.g. sand, silica gel, acid
+binder, universal binder, sawdust). Collect and transfer the product
+into a properly labelled and tightly closed container. Keep in suitable,
+closed containers for disposal. Clean contaminated floors and objects
+thoroughly, observing environmental regulations.
+--------------------------------------------------------------------------------
+END OF CHUNK 8
+
+
+================================================================================
+PAGE 4 - 3 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 9 (Index: 8) - PAGE 4
+Length: 992 characters | Estimated Tokens: 248
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+4/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+Additional advice Use personal protective equipment. If the product is accidentally
+spilled, do not allow to enter soil, waterways or waste water canal. Do
+not allow product to contact non-target plants.
+Reference to other sections Information regarding safe handling, see section 7.
+Information regarding personal protective equipment, see section 8.
+Information regarding waste disposal, see section 13.
+SECTION 7: HANDLING AND STORAGE
+Precautions for safe handling
+Advice on safe handling Avoid contact with skin, eyes and clothing. Ensure adequate ventilation.
+Hygiene measures Wash hands thoroughly with soap and water after handling and before
+eating, drinking, chewing gum, using tobacco, using the toilet or
+applying cosmetics.
+Remove Personal Protective Equipment (PPE) immediately after
+handling this product. Remove soiled clothing immediately and clean
+--------------------------------------------------------------------------------
+END OF CHUNK 9
+
+
+--------------------------------------------------------------------------------
+CHUNK 10 (Index: 9) - PAGE 4
+Length: 991 characters | Estimated Tokens: 247
+--------------------------------------------------------------------------------
+applying cosmetics.
+Remove Personal Protective Equipment (PPE) immediately after
+handling this product. Remove soiled clothing immediately and clean
+thoroughly before using again. Wash thoroughly and put on clean
+clothing. Keep working clothes separately. Garments that cannot be
+cleaned must be destroyed (burnt).
+Conditions for safe storage, including any incompatibilities
+Requirements for storage Store in original container. Store in a cool, dry place and in such a
+areas and containers manner as to prevent cross contamination with other crop protection
+products, fertilizers, food, and feed. Store in a place accessible by
+authorized persons only. Reacts with galvanised steel or unlined mild
+steel to produce hydrogen, a highly flammable gas that could explode.
+Protect from freezing. Partial crystallization may occur on prolonged
+storage below the minimum storage temperature. Freezing will affect the
+physical condition but will not damage the material. Thaw and mix
+before using.
+--------------------------------------------------------------------------------
+END OF CHUNK 10
+
+
+--------------------------------------------------------------------------------
+CHUNK 11 (Index: 10) - PAGE 4
+Length: 755 characters | Estimated Tokens: 188
+--------------------------------------------------------------------------------
+storage below the minimum storage temperature. Freezing will affect the
+physical condition but will not damage the material. Thaw and mix
+before using.
+Advice on common storage Keep away from food, drink and animal feedingstuffs.
+SECTION 8: EXPOSURE CONTROLS/PERSONAL PROTECTION
+Control parameters
+No known occupational limit values.
+Exposure controls
+Personal protective equipment
+In normal use and handling conditions please refer to the label and/or leaflet. In all other cases the
+following recommendations would apply.
+Respiratory protection When respirators are required, select NIOSH approved equipment
+based on actual or potential airborne concentrations and in
+accordance with the appropriate regulatory standards and/or industry
+recommendations.
+--------------------------------------------------------------------------------
+END OF CHUNK 11
+
+
+================================================================================
+PAGE 5 - 2 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 12 (Index: 11) - PAGE 5
+Length: 978 characters | Estimated Tokens: 244
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+5/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+Hand protection Please observe the instructions regarding permeability and
+breakthrough time which are provided by the supplier of the gloves.
+Also take into consideration the specific local conditions under which
+the product is used, such as the danger of cuts, abrasion, and the
+contact time.
+Chemical-resistant gloves (barrier laminate, butyl rubber, nitrile
+rubber or Viton)
+Wash gloves when contaminated. Dispose of when contaminated
+inside, when perforated or when contamination on the outside cannot
+be removed. Wash hands frequently and always before eating,
+drinking, smoking or using the toilet.
+Eye protection Use tightly sealed goggles and face protection.
+Skin and body protection Wear long-sleeved shirt and long pants and shoes plus socks.
+General protective measures Follow manufacturer's instructions for cleaning/maintaining PPE. If
+--------------------------------------------------------------------------------
+END OF CHUNK 12
+
+
+--------------------------------------------------------------------------------
+CHUNK 13 (Index: 12) - PAGE 5
+Length: 914 characters | Estimated Tokens: 228
+--------------------------------------------------------------------------------
+Skin and body protection Wear long-sleeved shirt and long pants and shoes plus socks.
+General protective measures Follow manufacturer's instructions for cleaning/maintaining PPE. If
+no such instructions for washables, use detergent and warm/tepid
+water.
+Keep and wash PPE separately from other laundry.
+SECTION 9. PHYSICAL AND CHEMICAL PROPERTIES
+Information on basic physical and chemical properties
+Form Liquid, clear
+Colour light yellow to amber
+Odour sweet
+Odour Threshold No data available
+pH 4.4 - 5.0 (8 %) (23 °C) (deionized water)
+Melting point/range No data available
+Boiling Point
+No data available
+Flash point does not flash
+Flammability No data available
+Auto-ignition temperature 452 °C
+Minimum ignition energy Not applicable
+Self-accelarating No data available
+decomposition temperature
+(SADT)
+Upper explosion limit Not applicable
+Lower explosion limit Not applicable
+Vapour pressure 25 mmHg (24 °C)
+--------------------------------------------------------------------------------
+END OF CHUNK 13
+
+
+================================================================================
+PAGE 6 - 2 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 14 (Index: 13) - PAGE 6
+Length: 957 characters | Estimated Tokens: 239
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+6/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+Evaporation rate No data available
+Relative vapour density No data available
+Relative density 1.169 (20 °C)
+Density 1.17 g/cm³ (20 °C)
+Water solubility completely miscible
+Partition coefficient: n- Glyphosate: log Pow: -3.2
+octanol/water
+Viscosity, dynamic 73.2 cps
+Viscosity, kinematic 62.47 cSt (20 °C)
+Oxidizing properties No data available
+Explosivity Not explosive
+Other information Further safety related physical-chemical data are not known.
+SECTION 10: STABILITY AND REACTIVITY
+Reactivity
+Thermal decomposition Stable under normal conditions.
+Chemical stability Stable under recommended storage conditions.
+Possibility of hazardous Reacts with galvanised steel or unlined mild steel to produce hydrogen,
+reactions a highly flammable gas that could explode.
+Conditions to avoid Extremes of temperature and direct sunlight.
+--------------------------------------------------------------------------------
+END OF CHUNK 14
+
+
+--------------------------------------------------------------------------------
+CHUNK 15 (Index: 14) - PAGE 6
+Length: 632 characters | Estimated Tokens: 158
+--------------------------------------------------------------------------------
+reactions a highly flammable gas that could explode.
+Conditions to avoid Extremes of temperature and direct sunlight.
+Incompatible materials Galvanised steel, Unlined mild steel
+Hazardous decomposition No decomposition products expected under normal conditions of use.
+products
+SECTION 11: TOXICOLOGICAL INFORMATION
+Exposure routes Skin contact, Eye contact, Inhalation
+Immediate Effects
+Eye May cause eye irritation.
+Skin Not expected to produce significant adverse effects when
+recommended use instructions are followed.
+Ingestion Not expected to produce significant adverse effects when
+recommended use instructions are followed.
+--------------------------------------------------------------------------------
+END OF CHUNK 15
+
+
+================================================================================
+PAGE 7 - 2 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 16 (Index: 15) - PAGE 7
+Length: 989 characters | Estimated Tokens: 247
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+7/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+Inhalation May be harmful if inhaled.
+Information on toxicological effects
+Acute oral toxicity LD50 (Rat) 5,108 mg/kg
+Acute inhalation toxicity LC50 (Rat) 2.9 mg/l
+Exposure time: 4 h
+Determined in the form of liquid aerosol.
+Acute dermal toxicity LD50 (Rat) > 5,000 mg/kg
+No deaths
+Skin corrosion/irritation No skin irritation (Rabbit)
+Serious eye damage/eye Slight irritant effect - does not require labelling. (Rabbit)
+irritation
+Respiratory or skin Skin: Non-sensitizing. (Guinea pig)
+sensitisation OECD Test Guideline 406, Buehler test
+Assessment STOT Specific target organ toxicity – single exposure
+Glyphosate: Based on available data, the classification criteria are not met.
+Assessment STOT Specific target organ toxicity – repeated exposure
+Glyphosate did not cause specific target organ toxicity in experimental animal studies.
+Assessment mutagenicity
+--------------------------------------------------------------------------------
+END OF CHUNK 16
+
+
+--------------------------------------------------------------------------------
+CHUNK 17 (Index: 16) - PAGE 7
+Length: 826 characters | Estimated Tokens: 206
+--------------------------------------------------------------------------------
+Assessment STOT Specific target organ toxicity – repeated exposure
+Glyphosate did not cause specific target organ toxicity in experimental animal studies.
+Assessment mutagenicity
+Glyphosate was not mutagenic or genotoxic in a battery of in vitro and in vivo tests.
+Assessment carcinogenicity
+Glyphosate was not carcinogenic in lifetime feeding studies in rats and mice.
+Important comment to IARC Listing:, Our expert opinion is that classification as a carcinogen is not
+warranted.
+ACGIH
+None.
+NTP
+None.
+IARC
+Isopropylamine salt of glyphosate 38641-94-0 Overall evaluation: 2A
+OSHA
+None.
+Assessment toxicity to reproduction
+Glyphosate did not cause reproductive toxicity in a two-generation study in rats.
+Assessment developmental toxicity
+Glyphosate did not cause developmental toxicity in rats and rabbits.
+Aspiration hazard
+--------------------------------------------------------------------------------
+END OF CHUNK 17
+
+
+================================================================================
+PAGE 8 - 3 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 18 (Index: 17) - PAGE 8
+Length: 976 characters | Estimated Tokens: 244
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+8/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+Based on available data, the classification criteria are not met.
+Further information
+The toxicological data refer to a similar formulation.
+SECTION 12: ECOLOGICAL INFORMATION
+Toxicity to fish LC50 (Oncorhynchus mykiss (rainbow trout)) 5.4 mg/l
+static test; Exposure time: 96 h
+Chronic toxicity to fish Oncorhynchus mykiss (rainbow trout)
+flow-through test
+NOEC: >= 9.63 mg/l
+The value mentioned relates to the active ingredient glyphosate.
+Toxicity to aquatic EC50 (Daphnia magna (Water flea)) 11 mg/l static test; Exposure time:
+invertebrates 48 h
+Chronic toxicity to aquatic EC50 (Daphnia magna (Water flea)): 12.5 mg/l
+invertebrates Exposure time: 21 d
+The value mentioned relates to the active ingredient glyphosate.
+Toxicity to aquatic plants EbC50 (Raphidocelis subcapitata (freshwater green alga)) 12.4 mg/l
+static test; Exposure time: 72 h
+--------------------------------------------------------------------------------
+END OF CHUNK 18
+
+
+--------------------------------------------------------------------------------
+CHUNK 19 (Index: 18) - PAGE 8
+Length: 951 characters | Estimated Tokens: 237
+--------------------------------------------------------------------------------
+The value mentioned relates to the active ingredient glyphosate.
+Toxicity to aquatic plants EbC50 (Raphidocelis subcapitata (freshwater green alga)) 12.4 mg/l
+static test; Exposure time: 72 h
+Test conducted with a similar formulation.
+NOEC (Raphidocelis subcapitata (freshwater green alga)) 6.3 mg/l
+static test; Exposure time: 72 h
+Test conducted with a similar formulation.
+Biodegradability Glyphosate:
+Not rapidly biodegradable
+Koc Glyphosate: Koc: 6920
+Bioaccumulation Glyphosate:
+Does not bioaccumulate.
+Mobility in soil Glyphosate: Immobile in soil
+Results of PBT and vPvB assessment
+PBT and vPvB assessment Glyphosate: This substance is not considered to be persistent,
+bioaccumulative and toxic (PBT). This substance is not considered to be
+very persistent and very bioaccumulative (vPvB).
+Additional ecological No further ecological information is available.
+information
+Environmental precautions Apply this product as specified on the label.
+--------------------------------------------------------------------------------
+END OF CHUNK 19
+
+
+--------------------------------------------------------------------------------
+CHUNK 20 (Index: 19) - PAGE 8
+Length: 447 characters | Estimated Tokens: 111
+--------------------------------------------------------------------------------
+Additional ecological No further ecological information is available.
+information
+Environmental precautions Apply this product as specified on the label.
+Do not apply directly to water, to areas where surface water is present
+or to intertidal areas below the mean high water mark.
+Do not contaminate surface or ground water by cleaning equipment or
+disposal of wastes, including equipment wash water.
+Retain and dispose of contaminated wash water.
+--------------------------------------------------------------------------------
+END OF CHUNK 20
+
+
+================================================================================
+PAGE 9 - 3 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 21 (Index: 20) - PAGE 9
+Length: 991 characters | Estimated Tokens: 247
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+9/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+SECTION 13: DISPOSAL CONSIDERATIONS
+Waste treatment methods
+Product It is best to use all of the product in accordance with label directions. If it
+is necessary to dispose of unused product, please follow container label
+instructions and applicable local guidelines.
+Do not contaminate water, food, or feed by disposal.
+Follow all local/regional/national/international regulations.
+Contaminated packaging Follow advice on product label and/or leaflet.
+Do not re-use empty containers.
+Triple rinse containers.
+Puncture container to avoid re-use.
+Completely empty container into application equipment, then dispose of
+empty container in a sanitary landfill, by incineration or by other
+procedures approved by state/provincial and local authorities.
+If burned, stay out of smoke.
+RCRA Information Characterization and proper disposal of this material as a special or
+--------------------------------------------------------------------------------
+END OF CHUNK 21
+
+
+--------------------------------------------------------------------------------
+CHUNK 22 (Index: 21) - PAGE 9
+Length: 946 characters | Estimated Tokens: 236
+--------------------------------------------------------------------------------
+procedures approved by state/provincial and local authorities.
+If burned, stay out of smoke.
+RCRA Information Characterization and proper disposal of this material as a special or
+hazardous waste is dependent upon Federal, State and local laws and
+are the user's responsibility. RCRA classification may apply.
+SECTION 14: TRANSPORT INFORMATION
+According to national and international transport regulations this material is not classified as dangerous
+goods / hazardous material.
+SECTION 15: REGULATORY INFORMATION
+EPA Registration No. 524-475
+US Federal Regulations
+TSCA list
+Water 7732-18-5
+Polyethylene glycol 25322-68-3
+US. Toxic Substances Control Act (TSCA) Section 12(b) Export Notification (40 CFR 707, Subpt D)
+No export notification needs to be made.
+SARA Title III - Section 302 - Notification and Information
+Not applicable.
+SARA Title III - Section 313 - Toxic Chemical Release Reporting
+None.
+US States Regulatory Reporting
+CA Prop65
+--------------------------------------------------------------------------------
+END OF CHUNK 22
+
+
+--------------------------------------------------------------------------------
+CHUNK 23 (Index: 22) - PAGE 9
+Length: 281 characters | Estimated Tokens: 70
+--------------------------------------------------------------------------------
+SARA Title III - Section 302 - Notification and Information
+Not applicable.
+SARA Title III - Section 313 - Toxic Chemical Release Reporting
+None.
+US States Regulatory Reporting
+CA Prop65
+This product does not contain any substances known to the State of California to cause cancer.
+--------------------------------------------------------------------------------
+END OF CHUNK 23
+
+
+================================================================================
+PAGE 10 - 2 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 24 (Index: 23) - PAGE 10
+Length: 968 characters | Estimated Tokens: 242
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+10/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+This product does not contain any substances known to the State of California to cause
+reproductive harm.
+US State Right-To-Know Ingredients
+Polyethylene glycol 25322-68-3 MN
+Environmental
+CERCLA
+None.
+Clean Water Section 307(a)(1)
+None.
+Safe Drinking Water Act Maximum Contaminant Levels
+None.
+EPA/FIFRA Information:
+This chemical is a pesticide product registered by the Environmental Protection Agency and is subject to
+certain labeling requirements under federal pesticide law. These requirements differ from the classification
+criteria and hazard information required for safety data sheets, and for workplace labels of non-pesticide
+chemicals. Following is the hazard information required on the pesticide label:
+Signal word: Caution!
+Hazard statements: Causes eye irritation.
+SECTION 16: OTHER INFORMATION
+Abbreviations and acronyms
+--------------------------------------------------------------------------------
+END OF CHUNK 24
+
+
+--------------------------------------------------------------------------------
+CHUNK 25 (Index: 24) - PAGE 10
+Length: 868 characters | Estimated Tokens: 217
+--------------------------------------------------------------------------------
+Signal word: Caution!
+Hazard statements: Causes eye irritation.
+SECTION 16: OTHER INFORMATION
+Abbreviations and acronyms
+49CFR Code of Federal Regulations, Title 49
+ACGIH US. ACGIH Threshold Limit Values
+ATE Acute toxicity estimate
+CAS-Nr. Chemical Abstracts Service number
+CERCLA Comprehensive Environmental Response, Compensation, and Liability Act
+EINECS European inventory of existing commercial substances
+ELINCS European list of notified chemical substances
+IARC International Agency for Research on Cancer
+IATA International Air Transport Association
+IMDG International Maritime Dangerous Goods
+N.O.S. Not otherwise specified
+NTP US. National Toxicology Program (NTP) Report on Carcinogens
+OECD Organization for Economic Co-operation and Development
+TDG Transportation of Dangerous Goods
+TWA Time weighted average
+UN United Nations
+WHO World health organisation
+--------------------------------------------------------------------------------
+END OF CHUNK 25
+
+
+================================================================================
+PAGE 11 - 1 CHUNK(S)
+================================================================================
+
+--------------------------------------------------------------------------------
+CHUNK 26 (Index: 25) - PAGE 11
+Length: 788 characters | Estimated Tokens: 197
+--------------------------------------------------------------------------------
+SAFETY DATA SHEET
+ROUNDUP® ULTRA HERBICIDE
+11/11
+Version 1.0 / USA Revision Date: 08/06/2020
+102000037602 Print Date: 03/16/2021
+NFPA 704 (National Fire Protection Association):
+Health - 1 Flammability - 1 Instability - 1 Others - none
+HMIS (Hazardous Materials Identification System, based on the Third Edition Ratings Guide)
+Health - 2 Flammability - 1 Physical Hazard - 1 PPE -
+0 = minimal hazard, 1 = slight hazard, 2 = moderate hazard, 3 = severe hazard, 4 = extreme hazard
+Reason for Revision: New Safety Data Sheet.
+Revision Date: 08/06/2020
+This information is provided in good faith but without express or implied warranty. The customer assumes
+all responsibility for safety and use not in accordance with label instructions. The product names are
+registered trademarks of Bayer.
+--------------------------------------------------------------------------------
+END OF CHUNK 26
+
+
+================================================================================
+CHUNK STATISTICS
+================================================================================
+Average chunk size: 821 characters
+Smallest chunk: 281 characters
+Largest chunk: 992 characters
+Total pages: 11
+Total chunks: 26
+Average chunks per page: 2.4
